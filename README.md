@@ -19,3 +19,5 @@ Check out this Google+ thread about [503 HTTP headers and Google search index](h
 Hi, I'm [Zach](http://twitter.com/zacharyjohnson), and I made this for the internet.  I felt inspired by the "going dark" theme of the SOPA blackout protest.  I've been calling my representatives in Congress, but this gave me another outlet for my frustration with this legislation.
 
 I place this code in the public domain.  I require no attribution.
+
+[**The response to my template has been overwhelming!**](http://www.zachstronaut.com/posts/2012/01/17/stop-sopa-protest-template.html) Thanks so much to all of you who made the Jan 18 protest against SOPA/PIPA a success! But the battle is not yet won!
